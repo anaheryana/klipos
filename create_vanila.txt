@@ -1,0 +1,5 @@
+CREATE ANDROID IMAGE FROM VANILA (AOSP)
+
+References :
+1. https://mjanja.ch/2011/11/building-android-4-0-on-ubuntu-11-10/
+2. https://source.android.com/source/building.html
